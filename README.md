@@ -1,4 +1,15 @@
-### Hi there 👋
+### Salut à tous
+<p>
+Je vois que vous êtes sur mon profil, je vous souhaite la bienvenue ❤️.
+
+Je suis développeuse sur Java. J'ai commencé la programmation sur le langage C à la FAC, ça remonte en 2015.
+
+Je suis une grande amatrice de café.
+
+A bientôt !
+</p>
+
+
 
 <!--
 **Euphillya/Euphillya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
