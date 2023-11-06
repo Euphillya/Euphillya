@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**DoctaEnkoda/DoctaEnkoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Euphillya/Euphillya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DoctaEnkoda&count_private=true&show_icons=true&theme=dark" align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DoctaEnkoda&layout=compact&langs_count=8&theme=algolia" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Euphillya&count_private=true&show_icons=true&theme=dark" align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Euphillya&layout=compact&langs_count=8&theme=algolia" align="center">
 </p>
