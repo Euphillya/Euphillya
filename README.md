@@ -1,32 +1,34 @@
-### Salut à tous
-<p>
-Je vois que vous êtes sur mon profil, je vous souhaite la bienvenue ❤️.
+Hello everyone,  
+I see you're checking out my profile, so I welcome you ❤️.
 
-Je suis développeuse sur Java. J'ai commencé la programmation sur le langage C à la FAC, ça remonte en 2015.
+I’m a Java developer. I started programming with the C language at university back in 2015.
 
-Je suis une grande amatrice de café.
+I'm a big fan of coffee and plushies.
 
-A bientôt !
-</p>
+I am currently working on making the most popular plugins compatible with Folia (I’m working alone, so progress is slow):
 
+| Repository Link | Published on Official Git? | Folia Support Status | Download Link |
+|-----------------|----------------------------|----------------------|---------------|
+| [Oraxen Folia](https://github.com/Euphillya/oraxen-folia/tree/folia) | No | Playable | Needs to be compiled |
+| [Essentials Folia](https://github.com/Euphillya/Essentials-Folia) | No | Playable | [Essentials Folia Actions](https://github.com/Euphillya/Essentials-Folia/actions) |
+| [WorldEdit Folia](https://github.com/Euphillya/WorldEdit-Folia) | No | Playable | [WorldEdit Folia Actions](https://github.com/Euphillya/WorldEdit-Folia/actions) |
+| [WorldGuard Folia](https://github.com/Euphillya/WorldGuard-Folia) | No | Playable | [WorldGuard Folia Actions](https://github.com/Euphillya/WorldGuard-Folia/actions) |
+| [DeluxeMenus](https://github.com/Euphillya/DeluxeMenus) | No | Yes | [DeluxeMenus Actions](https://github.com/Euphillya/DeluxeMenus/actions) |
+| [CrazyAuctions](https://github.com/Euphillya/CrazyAuctions) | Yes | Yes | [Modrinth CrazyAuctions](https://modrinth.com/plugin/crazyauctions) |
+| [CrazyEnchantments](https://github.com/Euphillya/CrazyEnchantments) | Yes | Yes | [Modrinth CrazyEnchantments](https://modrinth.com/plugin/crazyenchantments) |
+| [CrazyCrates](https://github.com/Euphillya/CrazyCrates) | Yes | Yes | [Modrinth CrazyCrates](https://modrinth.com/plugin/crazycrates) |
+| [Triumph GUI Folia](https://github.com/Euphillya/triumph-gui-Folia) | Yes | Yes | [Triumph GUI](https://github.com/TriumphTeam/triumph-gui) |
 
+I’ve also created a Skyblock plugin:
 
-<!--
-**Euphillya/Euphillya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Plugin Name | Open Source | Folia Support Status | Download Link |
+|-------------|-------------|----------------------|---------------|
+| **Skyllia** | Yes | Yes | [Skyllia](https://github.com/Euphillya/Skyllia) |
 
-Here are some ideas to get you started:
+Have a great day, everyone!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Euphillya&count_private=true&show_icons=true&theme=dark" align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Euphillya&layout=compact&langs_count=8&theme=algolia" align="center">
-</p>
+Here are some GitHub stats for more details about my work:
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Euphillya&count_private=true&show_icons=true&theme=dark"> </div> <div align="center"> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Euphillya&layout=compact&langs_count=8&theme=algolia"> </div>
