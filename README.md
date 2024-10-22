@@ -10,7 +10,6 @@ I am currently working on making the most popular plugins compatible with Folia 
 | Repository Link | Published on Official Git? | Folia Support Status | Download Link |
 |-----------------|----------------------------|----------------------|---------------|
 | [Bungeecord-Expansion Folia](https://github.com/Euphillya/Bungeecord-Expansion-Folia) | No | Playable | [Bungeecord-Expansion Releases](https://github.com/Euphillya/Bungeecord-Expansion-Folia/releases) |
-| [Oraxen Folia](https://github.com/Euphillya/oraxen-folia/tree/folia) | No | Playable | Needs to be compiled by yourself |
 | [WorldGuardExtraFlags-Folia](https://github.com/Euphillya/WorldGuardExtraFlags-Folia) | No | Playable | [WorldGuardExtraFlags Folia Actions](https://github.com/Euphillya/WorldGuardExtraFlags-Folia/actions) |
 | [DeluxeMenus-Folia](https://github.com/Euphillya/DeluxeMenus-Folia) | No | Playable | [DeluxeMenus Folia Actions](https://github.com/Euphillya/DeluxeMenus-Folia/actions) |
 | [Insights-Folia](https://github.com/Euphillya/Insights-Folia) | No | Playable | [Insights Folia Actions](https://github.com/Euphillya/Insights-Folia/actions) |
