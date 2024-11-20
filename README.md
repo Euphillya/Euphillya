@@ -9,13 +9,14 @@ I am currently working on making the most popular plugins compatible with Folia 
 
 | Repository Link | Published on Official Git? | Folia Support Status | Download Link |
 |-----------------|----------------------------|----------------------|---------------|
-| [Bungeecord-Expansion Folia](https://github.com/Euphillya/Bungeecord-Expansion-Folia) | No | Playable | [Bungeecord-Expansion Releases](https://github.com/Euphillya/Bungeecord-Expansion-Folia/releases) |
+| [DynamicShop3-Folia](https://github.com/Euphillya/DynamicShop3-Folia) | No | Playable | [DynamicShop3-Folia Actions](https://github.com/Euphillya/DynamicShop3-Folia/actions) |
+| [Bungeecord-Expansion-Folia](https://github.com/Euphillya/Bungeecord-Expansion-Folia) | No | Playable | [Bungeecord-Expansion Releases](https://github.com/Euphillya/Bungeecord-Expansion-Folia/releases) |
 | [WorldGuardExtraFlags-Folia](https://github.com/Euphillya/WorldGuardExtraFlags-Folia) | No | Playable | [WorldGuardExtraFlags Folia Actions](https://github.com/Euphillya/WorldGuardExtraFlags-Folia/actions) |
-| [DeluxeMenus-Folia](https://github.com/Euphillya/DeluxeMenus-Folia) | No | Playable | [DeluxeMenus Folia Actions](https://github.com/Euphillya/DeluxeMenus-Folia/actions) |
-| [Insights-Folia](https://github.com/Euphillya/Insights-Folia) | No | Playable | [Insights Folia Actions](https://github.com/Euphillya/Insights-Folia/actions) |
-| [Essentials Folia](https://github.com/Euphillya/Essentials-Folia) | No | Playable | [Essentials Folia Actions](https://github.com/Euphillya/Essentials-Folia/actions) |
-| [WorldEdit Folia](https://github.com/Euphillya/WorldEdit-Folia) | No | Playable | [WorldEdit Folia Actions](https://github.com/Euphillya/WorldEdit-Folia/actions) |
-| [WorldGuard Folia](https://github.com/Euphillya/WorldGuard-Folia) | No | Playable | [WorldGuard Folia Actions](https://github.com/Euphillya/WorldGuard-Folia/actions) |
+| [DeluxeMenus-Folia](https://github.com/Euphillya/DeluxeMenus-Folia) | No | Playable | [DeluxeMenus-Folia Actions](https://github.com/Euphillya/DeluxeMenus-Folia/actions) |
+| [Insights-Folia](https://github.com/Euphillya/Insights-Folia) | No | Playable | [Insights-Folia Actions](https://github.com/Euphillya/Insights-Folia/actions) |
+| [Essentials Folia](https://github.com/Euphillya/Essentials-Folia) | No | Playable | [Essentials-Folia Actions](https://github.com/Euphillya/Essentials-Folia/actions) |
+| [WorldEdit Folia](https://github.com/Euphillya/WorldEdit-Folia) | No | Playable | [WorldEdit-Folia Actions](https://github.com/Euphillya/WorldEdit-Folia/actions) |
+| [WorldGuard Folia](https://github.com/Euphillya/WorldGuard-Folia) | No | Playable | [WorldGuard-Folia Actions](https://github.com/Euphillya/WorldGuard-Folia/actions) |
 | [DeluxeMenus](https://github.com/Euphillya/DeluxeMenus) | No | Yes | [DeluxeMenus Actions](https://github.com/Euphillya/DeluxeMenus/actions) |
 | [CrazyAuctions](https://github.com/Euphillya/CrazyAuctions) | Yes | Yes | [Modrinth CrazyAuctions](https://modrinth.com/plugin/crazyauctions) |
 | [CrazyEnchantments](https://github.com/Euphillya/CrazyEnchantments) | Yes | Yes | [Modrinth CrazyEnchantments](https://modrinth.com/plugin/crazyenchantments) |
