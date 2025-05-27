@@ -3,7 +3,9 @@ I see you're checking out my profile, so I welcome you ❤️.
 
 I’m a Java developer. I started programming with the C language at university back in 2015.
 
-I'm a big fan of coffee and plushies.
+I'm a big fan of coffee and plushies (and fan Miku).
+
+![Profile Views](https://count.getloli.com/@Euphyllia?name=Euphyllia&theme=miku&scale=2)
 
 I am currently working on making the most popular plugins compatible with Folia (I’m working alone, so progress is slow):
 
