@@ -15,15 +15,16 @@ I am currently working on making the most popular plugins compatible with Folia 
 | [Bungeecord-Expansion-Folia](https://github.com/Euphillya/Bungeecord-Expansion-Folia) | No | Playable | [Bungeecord-Expansion Releases](https://github.com/Euphillya/Bungeecord-Expansion-Folia/releases) |
 | [WorldGuardExtraFlags-Folia](https://github.com/Euphillya/WorldGuardExtraFlags-Folia) | No | Playable | [WorldGuardExtraFlags Folia Actions](https://github.com/Euphillya/WorldGuardExtraFlags-Folia/actions) |
 | [DeluxeMenus-Folia](https://github.com/Euphillya/DeluxeMenus-Folia) | No | Playable | [DeluxeMenus-Folia Actions](https://github.com/Euphillya/DeluxeMenus-Folia/actions) |
-| [Insights-Folia](https://github.com/Euphillya/Insights-Folia) | No | Playable | [Insights-Folia Actions](https://github.com/Euphillya/Insights-Folia/actions) |
+| [Insights-Folia](https://github.com/Euphillya/Insights-Folia) | Yes | Yes | [Insights-Folia Releases](https://github.com/InsightsPlugin/Insights/releases) |
 | [Essentials Folia](https://github.com/Euphillya/Essentials-Folia) | No | Playable | [Essentials-Folia Actions](https://github.com/Euphillya/Essentials-Folia/actions) |
-| [WorldEdit Folia](https://github.com/Euphillya/WorldEdit-Folia) | No | Playable | [WorldEdit-Folia Actions](https://github.com/Euphillya/WorldEdit-Folia/actions) |
+| [WorldEdit Folia](https://github.com/Euphillya/WorldEdit-Folia) | No | Yes | [WorldEdit](https://enginehub.org/worldedit#downloads) |
 | [WorldGuard Folia](https://github.com/Euphillya/WorldGuard-Folia) | No | Playable | [WorldGuard-Folia Actions](https://github.com/Euphillya/WorldGuard-Folia/actions) |
 | [DeluxeMenus](https://github.com/Euphillya/DeluxeMenus) | No | Yes | [DeluxeMenus Actions](https://github.com/Euphillya/DeluxeMenus/actions) |
 | [CrazyAuctions](https://github.com/Euphillya/CrazyAuctions) | Yes | Yes | [Modrinth CrazyAuctions](https://modrinth.com/plugin/crazyauctions) |
 | [CrazyEnchantments](https://github.com/Euphillya/CrazyEnchantments) | Yes | Yes | [Modrinth CrazyEnchantments](https://modrinth.com/plugin/crazyenchantments) |
 | [CrazyCrates](https://github.com/Euphillya/CrazyCrates) | Yes | Yes | [Modrinth CrazyCrates](https://modrinth.com/plugin/crazycrates) |
 | [Triumph GUI Folia](https://github.com/Euphillya/triumph-gui-Folia) | Yes | Yes | [Triumph GUI](https://github.com/TriumphTeam/triumph-gui) |
+| [Citizens Folia](https://github.com/Euphillya/Citizens4Folia) | Yes | Yes | [Citizens](https://www.spigotmc.org/resources/citizens.13811/) |
 
 I’ve also created a Skyblock plugin:
 
